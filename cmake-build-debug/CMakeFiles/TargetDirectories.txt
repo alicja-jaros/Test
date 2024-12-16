@@ -1,0 +1,3 @@
+/Users/alicjajaros/Documents/cmake-build-debug/CMakeFiles/Documents.dir
+/Users/alicjajaros/Documents/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alicjajaros/Documents/cmake-build-debug/CMakeFiles/rebuild_cache.dir
